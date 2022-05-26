@@ -5,7 +5,8 @@ public class main {
 
         int bonus = price / x;
 
-        System.out.println(bonus);
+        System.out.println("при стоимости билета: " + price + "руб.");
+        System.out.println("Будет начислено бонусных миль: " + bonus);
 
     }
 }
